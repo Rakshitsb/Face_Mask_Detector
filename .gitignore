@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+env/
+venv/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+*.log
+# By default exclude model files; remove this line if you want to store model.h5 in repo
+*.h5
