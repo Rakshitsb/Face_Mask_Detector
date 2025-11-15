@@ -2,10 +2,9 @@ streamlit==1.28.0
 streamlit-webrtc
 av
 opencv-python-headless
-tensorflow
+tensorflow==2.11.0
 pillow
 numpy
 scikit-learn
 matplotlib
-pyngrok
 requests
